@@ -1,0 +1,35 @@
+{
+  "users":[
+    {
+      "id": "1",
+      "username": "bicky",
+      "password": "secret"
+    },
+    {
+      "id": "2",
+      "username": "student",
+      "password": "1234"
+    },
+  ],
+  "todos": [
+    {
+      "id": "2",
+      "title": "Set up Axios instance",
+      "completed": false,
+      "userId": 1
+    },
+    {
+      "id": "3",
+      "title": "Render my user’s To-Dos",
+      "completed": false,
+      "userId": 2
+    },
+    {
+      "id": "bbdc",
+      "title": "Go Home",
+      "completed": false,
+      "userId": "1"
+    },
+  ]
+}
+    
